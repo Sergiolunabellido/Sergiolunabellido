@@ -25,8 +25,8 @@ const sergio = {
   nombre:     "Sergio Luna",
   ubicación:  "España 🇪🇸",
   rol:        "Full-Stack Developer",
-  stack:      ["React", "Node.js", "Express", "Java", "PHP", "MySQL"],
-  aprendiendo: ["TypeScript", "Docker", "Cloud Architecture"],
+  stack:      ["React", "Node.js", "Express", "Java", "PHP", "Python", "JavaFX", "Kotlin",  "MySQL", "MongoDB", "Docker"],
+  aprendiendo: ["TypeScript", "Cloud Architecture", N8N, Unity, Flutter],
   pasión:     "Crear experiencias digitales que importen 🚀",
   contacto:   "github.com/Sergiolunabellido"
 };
@@ -50,7 +50,6 @@ const sergio = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -77,7 +76,7 @@ const sergio = {
 |------------|----------------|--------|
 | [**🌐 GlobinVerse**](https://github.com/Sergiolunabellido/GlobinVerse) | Plataforma full-stack para descubrir y gestionar libros en un universo fantástico. Auth con JWT + refresh tokens | `React` `Node.js` `Express` `JWT` `JavaScript` |
 | [**📁 Gestor Documental GDC**](https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-) | App web monolítica con gestión de usuarios, autenticación y sesiones completas | `PHP` `MySQL` `jQuery` `Bootstrap` `JavaScript` |
-| [**📊 ProyectoAccesoDatos**](https://github.com/Sergiolunabellido/ProyectoAccesoDatos) | Integración de datos desde múltiples fuentes y tecnologías |  `Java` |
+| [**📊 ProyectoAccesoDatos**](https://github.com/Sergiolunabellido/ProyectoAccesoDatos) | Integración de datos desde múltiples fuentes y tecnologías |  `Java` `Python` |
 | [**❤️ AprendeCuidandote**](https://github.com/Sergiolunabellido/AprendeCuidandote) | App para personas de tercera edad con dificultad tecnológica y problemas de memoria | `Flutter` `Dart` `C++` |
 
 </div>
