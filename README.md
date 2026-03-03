@@ -69,9 +69,9 @@ const sergio = {
 | 📦 Proyecto | 🔍 Descripción | 🛠 Tech |
 |------------|----------------|--------|
 | [**🌐 GlobinVerse**](https://github.com/Sergiolunabellido/GlobinVerse) | Plataforma full-stack para descubrir y gestionar libros en un universo fantástico. Auth con JWT + refresh tokens | `React` `Node.js` `Express` `JWT` `JavaScript` |
-| [**📁 Gestor Documental GDC**](https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-) | App web monolítica con gestión de usuarios, autenticación y sesiones completas | `PHP` `MySQL` `jQuery` `Bootstrap` |
-| [**📊 ProyectoAccesoDatos**](https://github.com/Sergiolunabellido/ProyectoAccesoDatos) | Integración de datos desde múltiples fuentes y tecnologías | `HTML` `JavaScript` |
-| [**❤️ AprendeCuidandote**](https://github.com/Sergiolunabellido/AprendeCuidandote) | App para personas de tercera edad con dificultad tecnológica y problemas de memoria | `C++` |
+| [**📁 Gestor Documental GDC**](https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-) | App web monolítica con gestión de usuarios, autenticación y sesiones completas | `PHP` `MySQL` `jQuery` `Bootstrap` `JavaScript` |
+| [**📊 ProyectoAccesoDatos**](https://github.com/Sergiolunabellido/ProyectoAccesoDatos) | Integración de datos desde múltiples fuentes y tecnologías |  `Java` |
+| [**❤️ AprendeCuidandote**](https://github.com/Sergiolunabellido/AprendeCuidandote) | App para personas de tercera edad con dificultad tecnológica y problemas de memoria | `Flutter` `Dart` `C++` |
 
 </div>
 
@@ -91,17 +91,6 @@ const sergio = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sergiolunabellido&theme=tokyonight&hide_border=true&background=0D1117&dates=58A6FF)
 
 </div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Sergiolunabellido&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
 ---
 
 <div align="center">
