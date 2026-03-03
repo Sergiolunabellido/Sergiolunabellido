@@ -25,7 +25,7 @@ const sergio = {
   nombre:     "Sergio Luna",
   ubicación:  "España 🇪🇸",
   rol:        "Full-Stack Developer",
-  stack:      ["React", "Node.js", "Express", "Java", "PHP", "Python", "JavaFX", "Kotlin",  "MySQL", "MongoDB", "Docker"],
+  stack:      ["React", "Node.js", "Express", "Java", "Python", "JavaFX", "MySQL", "MongoDB", "Docker"],
   aprendiendo: ["TypeScript", "Cloud Architecture", "N8N", "Unity", "Flutter"],
   pasión:     "Crear experiencias digitales que importen 🚀",
   contacto:   "github.com/Sergiolunabellido"
