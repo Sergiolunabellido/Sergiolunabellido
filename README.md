@@ -87,14 +87,24 @@ const sergio = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiolunabellido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiolunabellido&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiolunabellido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiolunabellido&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sergiolunabellido&theme=tokyonight&hide_border=true&background=0D1117&dates=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sergiolunabellido&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trofeos GitHub
+
+<div align="center">
+
+![Trofeos](https://github-profile-trophy.vercel.app/?username=Sergiolunabellido&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 ---
