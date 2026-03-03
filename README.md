@@ -87,8 +87,10 @@ const sergio = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sergiolunabellido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sergiolunabellido&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![Repos](https://img.shields.io/badge/Repositorios-5-58A6FF?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Seguidores-0-green?style=for-the-badge&logo=github)
+![Languages](https://img.shields.io/badge/Lenguajes-5-orange?style=for-the-badge&logo=github)
 
 </div>
 
