@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sergio%20Luna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%F0%9F%9A%80&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sergio%20Luna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Programador%20Junior%20%F0%9F%9A%80&descAlignY=51&descAlign=50" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Sergio+Luna+%F0%9F%91%8B;ProgramadorJunior+%7C+Spain+%F0%9F%87%AA%F0%9F%87%B8;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+Java+%E2%98%95;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Sergio+Luna+%F0%9F%91%8B;Programador%20Junior+%7C+Spain+%F0%9F%87%AA%F0%9F%87%B8;React+%E2%9A%9B%EF%B8%8F+%7C+Node.js+%F0%9F%9F%A2+%7C+Java+%E2%98%95;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez" alt="Typing SVG" />
 </a>
 
 <br/>
