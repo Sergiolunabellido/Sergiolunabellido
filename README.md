@@ -26,7 +26,7 @@ const sergio = {
   ubicación:  "España 🇪🇸",
   rol:        "Full-Stack Developer",
   stack:      ["React", "Node.js", "Express", "Java", "Python", "JavaFX", "MySQL", "MongoDB", "Docker"],
-  aprendiendo: ["TypeScript", "Cloud Architecture", "N8N", "Unity", "Flutter"],
+  aprendiendo: ["TypeScript", "Cloud Architecture", "N8N", "SpringBoot", "Flutter"],
   pasión:     "Crear experiencias digitales que importen 🚀",
   contacto:   "github.com/Sergiolunabellido"
 };
