@@ -24,7 +24,13 @@ Desarrollador en el Innovation Lab de Softtek, donde investigo y prototipo soluc
 
 🔭 Explorando nuevas formas de integrar IA en productos reales
 
-🌱 Actualmente profundizando en Python y su ecosistema ML
+🌱 Actualmente profundizando en Python y su ecosistema ML. 
+
+🔍 SSD (Solution Selling Design) aplicado a proyectos de IA
+
+🔄 AI-DLC (AI Development Life Cycle)
+
+✨ Prototipado rápido de soluciones con modelos de lenguaje y automatización
 
 💼 Software Developer
 
