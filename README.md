@@ -93,6 +93,7 @@ const sergio = {
 | [**📁 Gestor Documental GDC**](https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-) | App web monolítica con gestión de usuarios, autenticación y sesiones completas | `PHP` `MySQL` `jQuery` `Bootstrap` `JavaScript` |
 | [**📊 ProyectoAccesoDatos**](https://github.com/Sergiolunabellido/ProyectoAccesoDatos) | Integración de datos desde múltiples fuentes y tecnologías |  `Java` `Python` |
 | [**❤️ AprendeCuidandote**](https://github.com/Sergiolunabellido/AprendeCuidandote) | App para personas de tercera edad con dificultad tecnológica y problemas de memoria | `Flutter` `Dart` `C++` |
+| [**❤️ AulaPersonal**](https://github.com/Sergiolunabellido/AulaPersonal) | Aplicaicón de escritorio que busca la concentración por encima de cualquier otra cosa, abarcando toda aplicación necesaria para estudiar o trabajar. | `JS` `JAVA` `Electron` `Spring Boot` `TailWindCSS` `Node` `Grandle` `AI` `LocalModels`|
 | [**💻 Portfolio**](https://sergiolunabellido.github.io/PortFolio2026/) | Que quien soy? Conoceme un poquito mas aqui... | `React`
 | [**💻 BotTelegramPythonAndIA**](https://github.com/Sergiolunabellido/BotTelegramPythonAndAI) | Bot de telegram creado con Python Odoo e integracion de Groq para respuestas y peticiones a odoo | `Python` `Odoo` `Groq`
 | [**🕵️‍♂️ Centinela**](https://github.com/moodysonn/proxyParaAgentes) | Proxy de seguridad RASP (Runtime Application Self-Protection) para agentes de IA. | `Go` `Python ML` `Qdrant` `Redis` `Clickhouse` `Grafana` `PostgreSQL` `plartform-api`
