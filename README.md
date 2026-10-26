@@ -98,6 +98,8 @@ const sergio = {
 | [**💻 Portfolio**](https://sergiolunabellido.github.io/PortFolio2026/) | Que quien soy? Conoceme un poquito mas aqui... | `React`
 | [**💻 BotTelegramPythonAndIA**](https://github.com/Sergiolunabellido/BotTelegramPythonAndAI) | Bot de telegram creado con Python Odoo e integracion de Groq para respuestas y peticiones a odoo | `Python` `Odoo` `Groq`
 | [**🕵️‍♂️ Centinela**](https://github.com/moodysonn/proxyParaAgentes) | Proxy de seguridad RASP (Runtime Application Self-Protection) para agentes de IA. | `Go` `Python ML` `Qdrant` `Redis` `Clickhouse` `Grafana` `PostgreSQL` `plartform-api`
+| [**🕵️‍♂️ Finops**](https://gitlab.softtek-emergingservices.eu/cordoba-innovation-team/finops) | Control de costes de IA: el client-agent recolecta periódicamente los exports de Codeburn (tokens, coste, proyecto, herramienta, proveedor/modelo) y los almacena en SQLite local como cola de envío al backend. El frontend (Next.js) es el dashboard y el backend (FastAPI) está en construcción | `TypeScript` `Python FastAPI` `PM2` `PostgreSQL` `Next.js` `Node.js` `SQLite` `React 19`
+
 </div>
 
 ---
