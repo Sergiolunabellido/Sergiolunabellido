@@ -40,11 +40,11 @@ Desarrollador en el Innovation Lab de Softtek, donde investigo y prototipo soluc
 const sergio = {
   nombre:     "Sergio Luna",
   ubicación:  "España 🇪🇸",
-  rol:        "Full-Stack Developer",
-  stack:      ["React", "Node.js", "Express", "Java", "Python", "JavaFX", "MySQL", "MongoDB", "Docker"],
-  aprendiendo: ["TypeScript", "Cloud Architecture", "N8N", "SpringBoot", "Flutter"],
+  rol:        "Full-Stack Developer | AI Engineer | Gen AI & Machine Learning ",
+  stack:      ["React", "Node.js", "Express", "Java", "SpringBoot", "Python", "JavaFX", "MySQL", "MongoDB", "Docker", "N8N", "AI"],
+  aprendiendo: ["TypeScript", "Cloud Architecture"],
   pasión:     "Crear experiencias digitales que importen 🚀",
-  contacto:   "github.com/Sergiolunabellido"
+  contacto:   "sergiolunabellido04@gmail.com"
 };
 ```
 
