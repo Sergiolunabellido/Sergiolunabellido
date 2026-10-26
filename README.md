@@ -41,7 +41,7 @@ const sergio = {
   nombre:     "Sergio Luna",
   ubicación:  "España 🇪🇸",
   rol:        "Full-Stack Developer | AI Engineer | Gen AI & Machine Learning ",
-  stack:      ["React", "Node.js", "Express", "Java", "SpringBoot", "Python", "JavaFX", "MySQL", "MongoDB", "Docker", "N8N", "AI"],
+  stack:      ["React", "Node.js", "Express", "Java", "SpringBoot", "Python", "JavaFX", "MySQL", "MongoDB", "Docker", "N8N", "Gen AI"],
   aprendiendo: ["TypeScript", "Cloud Architecture"],
   pasión:     "Crear experiencias digitales que importen 🚀",
   contacto:   "sergiolunabellido04@gmail.com"
