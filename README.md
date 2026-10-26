@@ -80,6 +80,8 @@ const sergio = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-000000?style=for-the-badge&logo=pnpm&logoColor=white)
 
 
 ---
