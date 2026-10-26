@@ -82,6 +82,7 @@ const sergio = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-000000?style=for-the-badge&logo=pnpm&logoColor=white)
+![UV](https://img.shields.io/badge/UV-000000?style=for-the-badge&logo=uv&logoColor=white)
 
 
 ---
