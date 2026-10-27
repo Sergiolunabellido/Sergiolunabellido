@@ -99,7 +99,8 @@ const sergio = {
 | [**🧰 AulaPersonal**](https://github.com/Sergiolunabellido/AulaPersonal) | Aplicaicón de escritorio que busca la concentración por encima de cualquier otra cosa, abarcando toda aplicación necesaria para estudiar o trabajar. | `JS` `JAVA` `Electron` `Spring Boot` `TailWindCSS` `Node` `Grandle` `AI` `LocalModels`|
 | [**💻 Portfolio**](https://sergiolunabellido.github.io/PortFolio2026/) | Que quien soy? Conoceme un poquito mas aqui... | `React`
 | [**🕵️‍♂️ Centinela**](https://github.com/moodysonn/proxyParaAgentes) | Proxy de seguridad RASP (Runtime Application Self-Protection) para agentes de IA. | `Go` `Python ML` `Qdrant` `Redis` `Clickhouse` `Grafana` `PostgreSQL` `plartform-api`
-| [**🕵️‍♂️ Finops**](https://gitlab.softtek-emergingservices.eu/cordoba-innovation-team/finops) | Control de costes de IA: el client-agent recolecta periódicamente los exports de Codeburn (tokens, coste, proyecto, herramienta, proveedor/modelo) y los almacena en SQLite local como cola de envío al backend. El frontend (Next.js) es el dashboard y el backend (FastAPI) está en construcción | `TypeScript` `Python FastAPI` `PM2` `PostgreSQL` `Next.js` `Node.js` `SQLite` `React 19`
+| [**🕵️‍♂️ Finops**](https://gitlab.softtek-emergingservices.eu/cordoba-innovation-team/finops) | Control de costes de IA: Finops recolecta el consumo y uso de agentes de IA (tokens, coste, proyecto, herramienta, proveedor/modelo) y los pinta en la Web teniendo un registro exhausto de el gasto de cada usuario, en cada agente, proyecto, modelo , etc... | `TypeScript` `Python FastAPI` `PM2` `PostgreSQL` `Next.js` `Node.js` `SQLite` `React 19` `JWT` `UV` `PNPM` `CodeBurn`
+| [**🕵️‍♂️ Análisis Shield**](https://gitlab.softtek-emergingservices.eu/cordoba-innovation-team/analisis-shield) | Plataforma independiente de análisis, auditoría supply-chain y distribución gobernada de Skills, MCPs y Plugins. | `Python FastAPI` `PostgreSQL` `JWT` `React` `TypeScript` `Vite` `Supply-Chain`
 
 </div>
 
@@ -109,10 +110,10 @@ const sergio = {
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repositorios-5-58A6FF?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Seguidores-0-green?style=for-the-badge&logo=github)
-![Languages](https://img.shields.io/badge/Lenguajes-5-orange?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Repositorios-9-58A6FF?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-2-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Seguidores-2-green?style=for-the-badge&logo=github)
+![Languages](https://img.shields.io/badge/Lenguajes-6-orange?style=for-the-badge&logo=github)
 
 </div>
 
@@ -129,7 +130,6 @@ const sergio = {
   
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   
 </div>
 
