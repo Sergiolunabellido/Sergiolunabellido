@@ -85,7 +85,7 @@ const sergio = {
 ![PNPM](https://img.shields.io/badge/PNPM-000000?style=for-the-badge&logo=pnpm&logoColor=white)
 ![UV](https://img.shields.io/badge/UV-000000?style=for-the-badge&logo=uv&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/ClaudeCode-F05032?style=for-the-badge&logo=claudecode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-F05032?style=for-the-badge&logo=Cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-F05032?style=for-the-badge&logo=Cursor&logoColor=Black)
 ---
 
 ## 🚀 Proyectos Destacados
